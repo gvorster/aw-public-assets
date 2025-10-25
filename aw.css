@@ -1,16 +1,9 @@
-.border-red {
-  border: 2px solid red;
+.aw-border {
+  border: 2px solid;
 }
 
-.border-blue {
-  border: 2px solid blue;
-}
-
-.border-green {
-  border: 2px solid green;
-}
-
-.border-orange {
-  border: 2px solid orange;
-}
+.aw-border-red { border-color: red; }
+.aw-border-blue { border-color: blue; }
+.aw-border-green { border-color: green; }
+.aw-border-orange { border-color: orange; }
 
