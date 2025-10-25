@@ -1,9 +1,15 @@
-.aw-border {
-  border: 2px solid;
+.aw-border-red {
+  border: 2px solid red;
 }
 
-.aw-border-red { border-color: red; }
-.aw-border-blue { border-color: blue; }
-.aw-border-green { border-color: green; }
-.aw-border-orange { border-color: orange; }
+.aw-border-blue {
+  border: 2px solid blue;
+}
 
+.aw-border-green {
+  border: 2px solid green;
+}
+
+.aw-border-orange {
+  border: 2px solid orange;
+}
