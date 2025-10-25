@@ -13,3 +13,7 @@
 .aw-border-orange {
   border: 2px solid orange;
 }
+
+.v-btn__content {
+    text-transform: none;
+}
