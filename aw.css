@@ -14,6 +14,10 @@
   border: 2px solid orange;
 }
 
+.aw-border-yellow {
+  border: 2px solid yellow;
+}
+
 .v-btn__content {
     text-transform: none;
 }
